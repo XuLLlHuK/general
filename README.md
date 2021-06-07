@@ -1,2 +1,2 @@
 # general
-Anything you need in general cases and educational purposes.
+General cases and educational purposes.
